@@ -15,3 +15,16 @@
 
 ### Next work
 - Change the dataset, where the negative dataset contains other illness
+
+## Model 2 (change the propotation of datasets)
+### **Dataset constructe**
+- Postive dataset
+    - 99 COVID-19 X-ray images
+- Negative dataset
+    - 47 other lung illness X-ray images
+    - 43 normal lung X-ray images
+ 
+### **Result**
+- Only 50% accuracy
+
+![avatar](/performance2.png)

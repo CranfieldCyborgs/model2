@@ -141,9 +141,9 @@ sensitivity = cm[0, 0] / (cm[0, 0] + cm[0, 1])
 specificity = cm[1, 1] / (cm[1, 0] + cm[1, 1])
 # show the confusion matrix, accuracy, sensitivity, and specificity
 print(cm)
-print("acc: {:.4f}".format(acc))
-print("sensitivity: {:.4f}".format(sensitivity))
-print("specificity: {:.4f}".format(specificity))
+print("acc: {:.6f}".format(acc))
+print("sensitivity: {:.6f}".format(sensitivity))
+print("specificity: {:.6f}".format(specificity))
 
 # plot the training loss and accuracy
 N = EPOCHS
