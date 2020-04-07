@@ -11,7 +11,7 @@
 ### **Result**
 - Very accurate to detect COVID-19 
 
-![avatar](/performance.png)
+![avatar](/performance1.png)
 
 ### Next work
 - Change the dataset, where the negative dataset contains other illness
