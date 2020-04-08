@@ -28,3 +28,17 @@
 - Only 50% accuracy
 
 ![avatar](/performance2.png)
+
+
+## Model 3 (add more COVID-19 images)
+### **Dataset constructe**
+- Postive dataset
+    - **131** COVID-19 X-ray images
+- Negative dataset
+    - **52** other lung illness X-ray images
+    - **80** normal lung X-ray images
+ 
+### **Result**
+- ~80% accuracy
+
+![avatar](/performance3.png)
